@@ -63,7 +63,13 @@ Click on the following URL to launch the deployed application in your browser: h
 
 ## Usage
 
+![Step 1](https://github.com/mjsouthcott/21-google-books-react-search/blob/master/demo/demo1.PNG)
 
+![Step 2](https://github.com/mjsouthcott/21-google-books-react-search/blob/master/demo/demo2.PNG)
+
+![Step 3](https://github.com/mjsouthcott/21-google-books-react-search/blob/master/demo/demo3.PNG)
+
+![Step 4](https://github.com/mjsouthcott/21-google-books-react-search/blob/master/demo/demo4.PNG)
 
 ## Credits
 
