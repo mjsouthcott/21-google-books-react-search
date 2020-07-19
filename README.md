@@ -63,11 +63,19 @@ Click on the following URL to launch the deployed application in your browser: h
 
 ## Usage
 
+To search for a book, click the _Search_ link in the top navbar, enter the title into the _Book_ field in the _Book Search_ card and click the _Search_ button.
+
 ![Step 1](https://github.com/mjsouthcott/21-google-books-react-search/blob/master/demo/demo1.PNG)
+
+Following completion of the Google Books API call, the results will be display in the _Results_ card. Results include the book title, author and description. Click the _Save_ button to save the book in your library.
 
 ![Step 2](https://github.com/mjsouthcott/21-google-books-react-search/blob/master/demo/demo2.PNG)
 
+Click the _View_ button to open a new browser tab containing the book's page in the Google Play Store.
+
 ![Step 3](https://github.com/mjsouthcott/21-google-books-react-search/blob/master/demo/demo3.PNG)
+
+To view your library, click the _Saved_ link in the top navbar. Your library contains the results for all of the books you've saved.
 
 ![Step 4](https://github.com/mjsouthcott/21-google-books-react-search/blob/master/demo/demo4.PNG)
 
